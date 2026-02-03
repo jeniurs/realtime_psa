@@ -16,6 +16,9 @@
 *.blend1
 *.blend1.meta
 
+# Oculus Avatar2 sample preset zips (too large for GitHub)
+Assets/Oculus/Avatar2_SampleAssets/SampleAssets/SampleAssets/PresetAvatars_*.zip
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
