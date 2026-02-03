@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b619b26b969907f44be5b45b049ac858
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301103
+  packageName: Volleyball Girls - Sky Strikers Free
+  packageVersion: 1.0
+  assetPath: Assets/Visutronik/Characters/Shader/VisuShader.shader
+  uploadId: 709756
